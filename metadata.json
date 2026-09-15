@@ -1,0 +1,6 @@
+{
+  "name": "Baraf Pani",
+  "description": "Polished local multiplayer 3D PC/laptop party game based on traditional Baraf Pani for 3–5 players sharing one keyboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
